@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @shikharmehrotra131
+- 🔭 I’m currently working on a IEE Project
+- 🌱 I’m learning React and TypeScript
+- 🧠 I love solving coding problems and building cool stuff
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning node.js
 
